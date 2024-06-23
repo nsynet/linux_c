@@ -202,7 +202,7 @@
   * [fprintf](11#)
   * [fscanf](11#)
   * [printf](11#)
-  * [sacnf](11#)
+  * [scanf](11#)
   * [sprintf](11#)
   * [sscanf](11#)
   * [vfprintf](11#)
